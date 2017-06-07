@@ -1,8 +1,8 @@
 class hello
 {
-public static void main(String args[])
+public static void main(String a[])
 {
-for(int i=0;i<5;i++)
+for(int i=1;i<=5;i++)
 {
 System.out.println("Hello");
 }
