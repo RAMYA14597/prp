@@ -2,19 +2,18 @@ class checkingnum
 {
 public static void main(String args[])
 {
-int pcount=0,negcount=0;
 int number=Integer.parseInt(args[0]);
-if(num==0)
+if(number==0)
 {
-System.out.println("the number is ZERO");
+System.out.println("The number is ZERO");
 }
 else if(number>0)
 {
-System.out.println("the number is positive");
+System.out.println("The number is positive");
 }
 else
 {
-System.out.println(the number is negative");
+System.out.println("The number is negative");
 }
 }
 }
