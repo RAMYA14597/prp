@@ -1,4 +1,4 @@
-class sum
+class sumN
 {
     public static void main(String args[])
     {
