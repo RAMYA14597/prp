@@ -6,12 +6,13 @@ public static void main(String args[])
 Scanner sc=new Scanner(System.in);
 int num=sc.nextInt();
 int sum;
+  int tmp=num;
 while(num>0)
 {
 int n=num%10;
-sum=n;
+sum=(sum*10)+n;
 }
-if(sum==num)
+if(tmp==sum)
 {
 System.out.println("palindrome");
 }
