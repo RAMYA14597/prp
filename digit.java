@@ -1,4 +1,4 @@
-import java.Scanner;
+import java.util.Scanner;
 class digit
 {
 public static void main(String args[]);
