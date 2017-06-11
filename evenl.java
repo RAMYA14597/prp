@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-class oddl
+class evenl
 {
 public static void main(String args[])
 {
