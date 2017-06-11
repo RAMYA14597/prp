@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class oddl
+class odd1
 {
 public static void main(String args[])
 {
