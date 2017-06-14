@@ -1,4 +1,4 @@
-class multable
+class multipletable
 {
 public static void main(String args[])
 {
