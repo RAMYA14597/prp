@@ -11,6 +11,6 @@ public class sumofnum
         {
             sum=sum+i;
         }
-        System.out.println("The sum of numbers less than a number is :"+sum+" ");
+        System.out.println("The sum of numbers is :"+sum+" ");
     }
 }
