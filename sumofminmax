@@ -15,7 +15,7 @@ public class sumofminmax {
 		}
 		Arrays.sort(a1);
 		sum=a1[0]+a1[l];
-		System.out.println("The sum of minimum and maximum element in arrsy is: "+sum);
+		System.out.println("The sum of minimum and maximum element in array is: "+sum);
 		
 	}
 
