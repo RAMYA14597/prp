@@ -24,7 +24,7 @@ for(i=0;i<k;i++)
 }
   System.out.println("character count is: "+ch);
 	System.out.println("number count is: "+num);
-	System.out.println("special character count is: "+ch);
+	System.out.println("special character count is: "+sp);
 
 	}
 
