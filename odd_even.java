@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class odd_even {
+public static void main(String[] args) {
+Scanner sc=new Scanner(System.in);
+int num=sc.nextInt();
+if(((num/2)*2)==num)
+{
+	System.out.println("Even");
+}
+else
+{
+	System.out.println("Odd");
+}
+	}
+
+}
