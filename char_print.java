@@ -3,7 +3,7 @@ public class char_print {
 public static void main(String[] args) {
 Scanner sc=new Scanner(System.in);
 int a=sc.nextInt();
-char[] s="abcdefghijklmnopqrstuvwxyz".toCharArray();
+char[] s="ABCDEFGHIJKLMNOPQRSTUVWXYZ".toCharArray();
 int i;
 if(a<=26)
 {
