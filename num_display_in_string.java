@@ -19,7 +19,7 @@ for(i=0;i<s1.length();i++)
 	}
 
 }
-System.out.println("The numbers in the given string is: "+s2);
+System.out.println(s2);
 	}
 
 }
